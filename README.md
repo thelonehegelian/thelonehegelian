@@ -7,5 +7,7 @@
 - 💬 You can talk to me about (anything really) but mostly films, literature, history, philosophy, coding
 - 📫 Reach me via thelonehegelian@gmail.com
 
+- `while true {book-junkie; cinephile; coder;}`
+
 <!--
 **thelonehegelian/thelonehegelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
