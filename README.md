@@ -5,7 +5,7 @@
 - 🌱 I'm always learning something, but these days I am learning about network programming using Rust and NFTs
 - 👯 I’m looking to collaborate on anything Blockchain or fintech related
 - 💬 You can talk to me about (anything really) but mostly films, literature, history, philosophy, coding
-- 📫 Reach me via https://t.me/blockinker or discordapp.com/users/dijkstras_nightmare#4700
+- 📫 Reach me via https://t.me/blockinker or discord (discordapp.com/users/dijkstras_nightmare#4700)
 
 - `while true {read; watchMovie; code;}`
 
