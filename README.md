@@ -6,8 +6,9 @@
 - 👯 I’m looking to collaborate on anything Blockchain or fintech related
 - 💬 You can talk to me about (anything really) but mostly films, literature, history, philosophy, coding
 - 📫 Reach me via https://t.me/blockinker or https://discordapp.com/users/dijkstras_nightmare#4700
-
 - `while true {read; watchMovie; code;}`
+
+- Encode Club Expert Solidity alumnus
 
 <!--
 **thelonehegelian/thelonehegelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
