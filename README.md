@@ -6,7 +6,7 @@
 - 🫶 I’m looking to collaborate on anything interesting, but ideally should be something useful
 - 💬 You can talk to me about (anything really) but mostly films, literature, history, philosophy, coding
 - 👨🏻‍🎓 Encode Club Expert Solidity alumnus
-- 📫 Reach me via https://t.me/blockinker or https://discordapp.com/users/dijkstras_nightmare#4700
+- 📫 Reach me via https://discordapp.com/users/dijkstras_nightmare#4700
 
 
 - `while true {read; watchMovie; code;}`
