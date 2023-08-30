@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🧑‍💻 I'm a fullstack developer working with a variety of programming languages and technologies. Favorites are Solidity, Rust and Python
-- 🔭 I’m currently working on a few projects in different langauges, one of them is a GPT-based webapp and another is a trading lib
-- 🌱 I'm always learning something, but these days I am learning about network programming using Rust and NFTs
-- 🫶 I’m looking to collaborate on anything interesting, but ideally should be something useful
+- 🔭 I’m currently working on a few projects in different languages: a compiler, an OS from scratch, an ML app and a web3 app 
+- 🌱 I'm always learning something, but these days I am learning about operating systems, compilers and zero-knowledge proofs
+- 🫶 I’m looking to collaborate on anything interesting but ideally should be a useful product
 - 💬 You can talk to me about (anything really) but mostly films, literature, history, philosophy, coding
 - 👨🏻‍🎓 Encode Club Expert Solidity and ZK Bootcamp alumnus
 - 📫 Reach me via https://discordapp.com/users/dijkstras_nightmare#4700
